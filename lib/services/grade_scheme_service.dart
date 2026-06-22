@@ -6,7 +6,7 @@ class GradeSchemeService {
   static const schemes = [
     UniversityGradeScheme(
       universityName: 'Anna University',
-      gradeMapping: {'O': 10, 'A+': 9, 'A': 8, 'B+': 7, 'B': 6, 'RA': 0},
+      gradeMapping:{'O': 10, 'A+': 9, 'A': 8, 'B+': 7, 'B': 6, 'C': 5, 'RA': 0},
     ),
     UniversityGradeScheme(
       universityName: 'VIT',
